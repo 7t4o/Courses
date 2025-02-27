@@ -1,0 +1,83 @@
+[
+    {
+        "title": "أساسيات برمجة الويب",
+        "subtitle": "مواد تعليمية حول إنشاء مواقع ويب للمبتدئين",
+        "date": "4,5 Jam",
+        "videos": 20,
+        "students": 1900,
+        "image": "1.jpg",
+        "category": "prog"
+    },
+    {
+        "title": "التسويق الرقمي 101",
+        "subtitle": "مادة عن استراتيجيات ومفاهيم التسويق للمبتدئين",
+        "date": "6,2 Jam",
+        "videos": 32,
+        "students": 930,
+        "image": "2.jpg",
+        "category": "marketing"
+    },
+    {
+        "title": "علوم البيانات الأساسية",
+        "subtitle": "مواد تعليمية حول أساسيات علم البيانات",
+        "date": "8 Jam",
+        "videos": 48,
+        "students": 1043,
+        "image": "3.jpg",
+        "category": "data"
+    },
+    {
+        "title": "أساسيات الخطابة العامة",
+        "subtitle": "تعرف على المفاهيم والنظريات الأساسية في التحدث أمام الجمهور",
+        "date": "2,6 Jam",
+        "videos": 13,
+        "students": 900,
+        "image": "4.jpg",
+        "category": "soft"
+    },
+    {
+        "title": "أساسيات الشبكات",
+        "subtitle": "تعلم أساسيات شبكات الكمبيوتر للمبتدئين",
+        "date": "4 Jam",
+        "videos": 17,
+        "students": 909,
+        "image": "5.jpg",
+        "category": "network"
+    },
+    {
+        "title": "تصميم واجهات المستخدم",
+        "subtitle": "التصميم النظري والعملي في عالم تصميم واجهة المستخدم/تجربة المستخدم",
+        "date": "5 Jam",
+        "videos": 25,
+        "students": 1150,
+        "image": "6.jpg",
+        "category": "uiux"
+    },
+    {
+        "title": "قواعد اللغة الإنجليزية",
+        "subtitle": "من السهل التحدث باللغة الإنجليزية من خلال إتقان القواعد",
+        "date": "12 Jam",
+        "videos": 50,
+        "students": 1430,
+        "image": "7.jpg",
+        "category": "soft"
+    },
+    {
+        "title": "تكنولوجيا مطابقة النباتات",
+        "subtitle": "تقنيات الزراعة بمساعدة التكنولوجيا المثبتة",
+        "date": "7 Jam",
+        "videos": 24,
+        "students": 505,
+        "image": "8.jpg",
+        "category": "soft"
+    },
+    {
+        "title": "تعلم الآلة 101",
+        "subtitle": "تعلم المفاهيم الأساسية للتعلم الآلي",
+        "date": "17 Jam",
+        "videos": 17,
+        "students": 200,
+        "image": "9.jpg",
+        "category": "prog"
+    }
+]  
